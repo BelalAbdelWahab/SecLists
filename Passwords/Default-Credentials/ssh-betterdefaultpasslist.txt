@@ -107,6 +107,7 @@ USERID:PASSW0RD
 Administrator:p@ssw0rd
 root:freenas
 root:cxlinux
+bitnami:bitnami
 admin:symbol
 admin:Symbol
 admin:superuser
